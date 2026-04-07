@@ -1,7 +1,11 @@
 aid: marathon-oil
-url: https://raw.githubusercontent.com/api-evangelist/marathon-oil/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/marathon-oil/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.marathon-oil.com
+description: >-
+  Marathon Oil is an independent international energy company that engages in the
+  exploration, production, and marketing of liquid hydrocarbons and natural gas.
