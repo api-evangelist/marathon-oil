@@ -1,5 +1,17 @@
 aid: marathon-oil
 name: Marathon Oil
+x-status: acquired
+x-acquired-by: conocophillips
+x-acquired-date: '2024-11-22'
+x-status-note: >-
+  ConocoPhillips completed its $22.5B acquisition of Marathon Oil on 2024-11-22
+  (announced 2024-05-29, stockholder approval 2024-08-29). Marathon Oil no longer
+  hires as a distinct entity — its roles are posted on ConocoPhillips' board — so a
+  job corpus filed under this slug is ConocoPhillips' demand, not Marathon Oil's.
+  Kept as a tracked entity with the relationship recorded rather than deleted: the
+  company existed and its history is real. NOT to be confused with Marathon
+  Petroleum (MPC), a separate company that spun this one out in 2011 and is tracked
+  at all/marathon-petroleum/.
 description: >-
   Marathon Oil was an independent international energy company that engaged in
   the exploration, production, and marketing of liquid hydrocarbons and natural
