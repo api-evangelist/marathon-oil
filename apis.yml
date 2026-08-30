@@ -56,6 +56,11 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/conocophillips/
+    name: ConocoPhillips
+    x-relationship: acquired
+    x-evidence: "The company was acquired by ConocoPhillips in 2024, and its public web presence now redirects to ConocoPhillips."
   - type: DomainSecurity
     url: security/marathon-oil-domain-security.yml
   - type: GitHubOrganization
