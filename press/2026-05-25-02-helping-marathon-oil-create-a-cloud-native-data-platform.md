@@ -1,7 +1,9 @@
 ---
 title: Helping Marathon Oil Create a Cloud Native Data Platform
 url: https://www.epam.com/services/client-work/helping-marathon-oil-create-a-next-gen-cloud-native-data-platform
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marathon Oil" press release artificial intelligence'
 position: 2
 source: serpapi-google

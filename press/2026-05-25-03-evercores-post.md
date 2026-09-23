@@ -1,7 +1,9 @@
 ---
 title: Evercore's Post
 url: https://www.linkedin.com/posts/evercore-inc_conocophillips-to-acquire-marathon-oil-corporation-activity-7202023515192000512-EiVJ
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marathon Oil" press release artificial intelligence'
 position: 3
 source: serpapi-google

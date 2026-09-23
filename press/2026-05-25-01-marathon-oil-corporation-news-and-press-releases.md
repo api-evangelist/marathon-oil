@@ -1,7 +1,9 @@
 ---
 title: Marathon Oil Corporation News and Press Releases
 url: https://www.prnewswire.com/news/marathon-oil-corporation/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marathon Oil" press release artificial intelligence'
 position: 1
 source: serpapi-google

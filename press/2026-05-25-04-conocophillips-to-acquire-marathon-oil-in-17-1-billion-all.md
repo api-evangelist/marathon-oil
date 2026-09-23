@@ -1,7 +1,9 @@
 ---
 title: ConocoPhillips to Acquire Marathon Oil in $17.1 Billion All- ...
 url: https://trendspider.com/blog/conocophillips-to-acquire-marathon-oil-in-17-1-billion-all-stock-deal/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Marathon Oil" press release artificial intelligence'
 position: 4
 source: serpapi-google
